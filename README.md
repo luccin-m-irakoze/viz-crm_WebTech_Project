@@ -3,10 +3,14 @@
 A Customer Relationship Management web application built with Vue 3, Pinia and Vite.
 
 ## Project Members
-- ghadytox
 - luccin-m-irakoze
+- ghadytox
 
 ## Features
+- Authentication with role-based route guards
+- Contacts management with search and filters
+- Leads tracking with status pipeline
+- App layout with dark/light theme support
 - Dashboard with analytics and charts
 - Deals pipeline with kanban view
 - Users management and activity tracking
@@ -18,3 +22,9 @@ A Customer Relationship Management web application built with Vue 3, Pinia and V
 - Vue Router
 - Chart.js
 - Vite
+
+## Getting Started
+```bash
+npm install
+npm run dev
+```
